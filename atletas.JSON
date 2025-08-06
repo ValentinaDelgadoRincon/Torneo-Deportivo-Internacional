@@ -1,0 +1,265 @@
+[{
+    "id": "01",
+    "nombre_atleta": "Michael Phelps",
+    "edad": 24,
+    "sexo": "Masculino",
+    "pais": "España",
+    "deporte": "Natación",
+    "equipo_id": 101,
+    "competencias": [
+      {
+        "evento": "100m Libre",
+        "fecha": "08-10-2025",
+        "medalla": "oro"
+      },
+      {
+        "evento": "200m Libre",
+        "fecha": "08-12-2025",
+        "medalla": null
+      }
+    ]
+  },
+  
+    {
+      "id": "02",
+      "nombre_atleta": "Lionel Messi",
+      "edad": 38,
+      "sexo": "Masculino",
+      "pais": "Argentina",
+      "deporte": "Fútbol",
+      "equipo_id": 102,
+      "competencias": [
+        {
+          "evento": "Fútbol Masculino - Final",
+          "fecha": "08-15-2025",
+          "medalla": "plata"
+        }
+      ]
+    },
+    {
+      "id": "03",
+      "nombre_atleta": "Mariana Pajón",
+      "edad": 33,
+      "sexo": "Femenino",
+      "pais": "Colombia",
+      "deporte": "Ciclismo",
+      "equipo_id": 103,
+      "competencias": [
+        {
+          "evento": "BMX Carrera Femenina",
+          "fecha": "08-11-2025",
+          "medalla": "oro"
+        }
+      ]
+    },
+    {
+      "id": "04",
+      "nombre_atleta": "Teddy Riner",
+      "edad": 36,
+      "sexo": "Masculino",
+      "pais": "Francia",
+      "deporte": "Judo",
+      "equipo_id": 104,
+      "competencias": [
+        {
+          "evento": "+100kg Masculino",
+          "fecha": "08-09-2025",
+          "medalla": "bronce"
+        }
+      ]
+    },
+    {
+      "id": "05",
+      "nombre_atleta": "Katie Ledecky",
+      "edad": 28,
+      "sexo": "Femenino",
+      "pais": "Estados Unidos",
+      "deporte": "Natación",
+      "equipo_id": 105,
+      "competencias": [
+        {
+          "evento": "800m Libre",
+          "fecha": "08-13-2025",
+          "medalla": "oro"
+        }
+      ]
+    },
+    {
+      "id": "06",
+      "nombre_atleta": "Árpad Szabó",
+      "edad": 29,
+      "sexo": "Masculino",
+      "pais": "Hungría",
+      "deporte": "Esgrima",
+      "equipo_id": 106,
+      "competencias": [
+        {
+          "evento": "Espada Individual",
+          "fecha": "08-10-2025",
+          "medalla": null
+        }
+      ]
+    },
+    {
+      "id": "07",
+      "nombre_atleta": "Shelly-Ann Fraser-Pryce",
+      "edad": 38,
+      "sexo": "Femenino",
+      "pais": "Jamaica",
+      "deporte": "Atletismo",
+      "equipo_id": 107,
+      "competencias": [
+        {
+          "evento": "100m Planos",
+          "fecha": "08-08-2025",
+          "medalla": "plata"
+        }
+      ]
+    },
+    {
+      "id": "08",
+      "nombre_atleta": "Kylian Mbappé",
+      "edad": 26,
+      "sexo": "Masculino",
+      "pais": "Francia",
+      "deporte": "Fútbol",
+      "equipo_id": 102,
+      "competencias": [
+        {
+          "evento": "Fútbol Masculino - Semifinal",
+          "fecha": "08-12-2025",
+          "medalla": null
+        }
+      ]
+    },
+    {
+      "id": "09",
+      "nombre_atleta": "Annemiek van Vleuten",
+      "edad": 42,
+      "sexo": "Femenino",
+      "pais": "Países Bajos",
+      "deporte": "Ciclismo",
+      "equipo_id": 103,
+      "competencias": [
+        {
+          "evento": "Contrarreloj Individual",
+          "fecha": "08-10-2025",
+          "medalla": "oro"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "nombre_atleta": "Clarisse Agbegnenou",
+      "edad": 32,
+      "sexo": "Femenino",
+      "pais": "Francia",
+      "deporte": "Judo",
+      "equipo_id": 104,
+      "competencias": [
+        {
+          "evento": "-63kg Femenino",
+          "fecha": "08-07-2025",
+          "medalla": "oro"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "nombre_atleta": "Caeleb Dressel",
+      "edad": 29,
+      "sexo": "Masculino",
+      "pais": "Estados Unidos",
+      "deporte": "Natación",
+      "equipo_id": 105,
+      "competencias": [
+        {
+          "evento": "100m Mariposa",
+          "fecha": "08-14-2025",
+          "medalla": null
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "nombre_atleta": "Sun Yiwen",
+      "edad": 33,
+      "sexo": "Femenino",
+      "pais": "China",
+      "deporte": "Esgrima",
+      "equipo_id": 106,
+      "competencias": [
+        {
+          "evento": "Espada Individual Femenina",
+          "fecha": "08-10-2025",
+          "medalla": "bronce"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "nombre_atleta": "Karsten Warholm",
+      "edad": 29,
+      "sexo": "Masculino",
+      "pais": "Noruega",
+      "deporte": "Atletismo",
+      "equipo_id": 107,
+      "competencias": [
+        {
+          "evento": "400m con Vallas",
+          "fecha": "08-09-2025",
+          "medalla": "oro"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "nombre_atleta": "Alexia Putellas",
+      "edad": 31,
+      "sexo": "Femenino",
+      "pais": "España",
+      "deporte": "Fútbol",
+      "equipo_id": 108,
+      "competencias": [
+        {
+          "evento": "Fútbol Femenino - Final",
+          "fecha": "08-14-2025",
+          "medalla": "oro"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "nombre_atleta": "Primož Roglič",
+      "edad": 35,
+      "sexo": "Masculino",
+      "pais": "Eslovenia",
+      "deporte": "Ciclismo",
+      "equipo_id": 109,
+      "competencias": [
+        {
+          "evento": "Carrera en Ruta",
+          "fecha": "08-13-2025",
+          "medalla": null
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "nombre_atleta": "Yulimar Rojas",
+      "edad": 30,
+      "sexo": "Femenino",
+      "pais": "Venezuela",
+      "deporte": "Atletismo",
+      "equipo_id": 107,
+      "competencias": [
+        {
+          "evento": "Salto Triple",
+          "fecha": "08-08-2025",
+          "medalla": "oro"
+        }
+      ]
+    }
+  ]
+  
+

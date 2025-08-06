@@ -1,0 +1,397 @@
+[{
+    "id": "101",
+    "nombre_equipo": "España Natación Masculino",
+    "disciplina": "Natación",
+    "delegacion_id": "01",
+    "integrantes": [
+      {
+        "atleta_id": "01",
+        "nombre": "Michael Phelps",
+        "edad": 24,
+        "estilo": "crol libre"
+      },
+      {
+        "atleta_id": "02",
+        "nombre": "Juan Martínez",
+        "edad": 25,
+        "estilo": "espalda"
+      },
+      {
+        "atleta_id": "03",
+        "nombre": "Miguel Torres",
+        "edad": 22,
+        "estilo": "braza"
+      }
+    ]
+  },
+
+  
+    {
+      "id": "102",
+      "nombre_equipo": "Argentina Fútbol Masculino",
+      "disciplina": "Fútbol",
+      "delegacion_id": "02",
+      "integrantes": [
+        {
+          "atleta_id": "04",
+          "nombre": "Lionel Messi",
+          "edad": 38,
+          "estilo": "delantero"
+        },
+        {
+          "atleta_id": "05",
+          "nombre": "Paulo Dybala",
+          "edad": 31,
+          "estilo": "mediapunta"
+        },
+        {
+          "atleta_id": "06",
+          "nombre": "Emiliano Martínez",
+          "edad": 33,
+          "estilo": "portero"
+        }
+      ]
+    },
+    {
+      "id": "103",
+      "nombre_equipo": "Colombia BMX Femenino",
+      "disciplina": "Ciclismo",
+      "delegacion_id": "03",
+      "integrantes": [
+        {
+          "atleta_id": "07",
+          "nombre": "Mariana Pajón",
+          "edad": 33,
+          "estilo": "BMX"
+        },
+        {
+          "atleta_id": "08",
+          "nombre": "Gabriela Bolle",
+          "edad": 27,
+          "estilo": "BMX"
+        },
+        {
+          "atleta_id": "09",
+          "nombre": "Andrea Escobar",
+          "edad": 29,
+          "estilo": "BMX"
+        }
+      ]
+    },
+    {
+      "id": "104",
+      "nombre_equipo": "Francia Judo Masculino",
+      "disciplina": "Judo",
+      "delegacion_id": "04",
+      "integrantes": [
+        {
+          "atleta_id": "10",
+          "nombre": "Teddy Riner",
+          "edad": 36,
+          "estilo": "+100kg"
+        },
+        {
+          "atleta_id": "11",
+          "nombre": "Luka Mkheidze",
+          "edad": 28,
+          "estilo": "-60kg"
+        },
+        {
+          "atleta_id": "12",
+          "nombre": "Axel Clerget",
+          "edad": 38,
+          "estilo": "-90kg"
+        }
+      ]
+    },
+    {
+      "id": "105",
+      "nombre_equipo": "USA Natación Femenino",
+      "disciplina": "Natación",
+      "delegacion_id": "05",
+      "integrantes": [
+        {
+          "atleta_id": "13",
+          "nombre": "Katie Ledecky",
+          "edad": 28,
+          "estilo": "libre"
+        },
+        {
+          "atleta_id": "14",
+          "nombre": "Simone Manuel",
+          "edad": 29,
+          "estilo": "mariposa"
+        },
+        {
+          "atleta_id": "15",
+          "nombre": "Regan Smith",
+          "edad": 25,
+          "estilo": "espalda"
+        }
+      ]
+    },
+    {
+      "id": "106",
+      "nombre_equipo": "Hungría Esgrima Masculino",
+      "disciplina": "Esgrima",
+      "delegacion_id": "06",
+      "integrantes": [
+        {
+          "atleta_id": "16",
+          "nombre": "Árpad Szabó",
+          "edad": 29,
+          "estilo": "espada"
+        },
+        {
+          "atleta_id": "17",
+          "nombre": "Bence Balla",
+          "edad": 28,
+          "estilo": "florete"
+        },
+        {
+          "atleta_id": "18",
+          "nombre": "Gergely Siklósi",
+          "edad": 31,
+          "estilo": "sable"
+        }
+      ]
+    },
+    {
+      "id": "107",
+      "nombre_equipo": "Jamaica Atletismo Femenino",
+      "disciplina": "Atletismo",
+      "delegacion_id": "07",
+      "integrantes": [
+        {
+          "atleta_id": "19",
+          "nombre": "Shelly-Ann Fraser-Pryce",
+          "edad": 38,
+          "estilo": "velocista"
+        },
+        {
+          "atleta_id": "20",
+          "nombre": "Elaine Thompson-Herah",
+          "edad": 33,
+          "estilo": "velocista"
+        },
+        {
+          "atleta_id": "21",
+          "nombre": "Shericka Jackson",
+          "edad": 31,
+          "estilo": "velocista"
+        }
+      ]
+    },
+    {
+      "id": "108",
+      "nombre_equipo": "Francia Fútbol Masculino",
+      "disciplina": "Fútbol",
+      "delegacion_id": "02",
+      "integrantes": [
+        {
+          "atleta_id": "22",
+          "nombre": "Kylian Mbappé",
+          "edad": 26,
+          "estilo": "delantero"
+        },
+        {
+          "atleta_id": "23",
+          "nombre": "Eduardo Camavinga",
+          "edad": 23,
+          "estilo": "mediocampista"
+        },
+        {
+          "atleta_id": "24",
+          "nombre": "Mike Maignan",
+          "edad": 30,
+          "estilo": "portero"
+        }
+      ]
+    },
+    {
+      "id": "109",
+      "nombre_equipo": "Países Bajos Ciclismo Ruta Femenino",
+      "disciplina": "Ciclismo",
+      "delegacion_id": "08",
+      "integrantes": [
+        {
+          "atleta_id": "25",
+          "nombre": "Annemiek van Vleuten",
+          "edad": 42,
+          "estilo": "ruta"
+        },
+        {
+          "atleta_id": "26",
+          "nombre": "Demi Vollering",
+          "edad": 29,
+          "estilo": "contrarreloj"
+        },
+        {
+          "atleta_id": "27",
+          "nombre": "Ellen van Dijk",
+          "edad": 36,
+          "estilo": "contrarreloj"
+        }
+      ]
+    },
+    {
+      "id": "110",
+      "nombre_equipo": "China Esgrima Femenino",
+      "disciplina": "Esgrima",
+      "delegacion_id": "06",
+      "integrantes": [
+        {
+          "atleta_id": "28",
+          "nombre": "Sun Yiwen",
+          "edad": 33,
+          "estilo": "espada"
+        },
+        {
+          "atleta_id": "29",
+          "nombre": "Xu Anqi",
+          "edad": 34,
+          "estilo": "espada"
+        },
+        {
+          "atleta_id": "30",
+          "nombre": "Zhu Mingye",
+          "edad": 31,
+          "estilo": "florete"
+        }
+      ]
+    },
+    {
+      "id": "111",
+      "nombre_equipo": "Noruega Atletismo Masculino",
+      "disciplina": "Atletismo",
+      "delegacion_id": "09",
+      "integrantes": [
+        {
+          "atleta_id": "31",
+          "nombre": "Karsten Warholm",
+          "edad": 29,
+          "estilo": "400m vallas"
+        },
+        {
+          "atleta_id": "32",
+          "nombre": "Jakob Ingebrigtsen",
+          "edad": 25,
+          "estilo": "medio fondo"
+        },
+        {
+          "atleta_id": "33",
+          "nombre": "Filip Ingebrigtsen",
+          "edad": 33,
+          "estilo": "medio fondo"
+        }
+      ]
+    },
+    {
+      "id": "112",
+      "nombre_equipo": "España Fútbol Femenino",
+      "disciplina": "Fútbol",
+      "delegacion_id": "01",
+      "integrantes": [
+        {
+          "atleta_id": "34",
+          "nombre": "Alexia Putellas",
+          "edad": 31,
+          "estilo": "mediocampista"
+        },
+        {
+          "atleta_id": "35",
+          "nombre": "Jenni Hermoso",
+          "edad": 35,
+          "estilo": "delantera"
+        },
+        {
+          "atleta_id": "36",
+          "nombre": "Misa Rodríguez",
+          "edad": 26,
+          "estilo": "portera"
+        }
+      ]
+    },
+    {
+      "id": "113",
+      "nombre_equipo": "Eslovenia Ciclismo Ruta Masculino",
+      "disciplina": "Ciclismo",
+      "delegacion_id": "10",
+      "integrantes": [
+        {
+          "atleta_id": "37",
+          "nombre": "Primož Roglič",
+          "edad": 35,
+          "estilo": "ruta"
+        },
+        {
+          "atleta_id": "38",
+          "nombre": "Tadej Pogačar",
+          "edad": 27,
+          "estilo": "montaña"
+        },
+        {
+          "atleta_id": "39",
+          "nombre": "Jan Polanc",
+          "edad": 33,
+          "estilo": "contrarreloj"
+        }
+      ]
+    },
+    {
+      "id": "114",
+      "nombre_equipo": "Venezuela Atletismo Femenino",
+      "disciplina": "Atletismo",
+      "delegacion_id": "11",
+      "integrantes": [
+        {
+          "atleta_id": "40",
+          "nombre": "Yulimar Rojas",
+          "edad": 30,
+          "estilo": "salto triple"
+        },
+        {
+          "atleta_id": "41",
+          "nombre": "Joselyn Brea",
+          "edad": 30,
+          "estilo": "medio fondo"
+        },
+        {
+          "atleta_id": "42",
+          "nombre": "Rosa Rodríguez",
+          "edad": 39,
+          "estilo": "lanzamiento de martillo"
+        }
+      ]
+    },
+    {
+      "id": "115",
+      "nombre_equipo": "Italia Judo Femenino",
+      "disciplina": "Judo",
+      "delegacion_id": "12",
+      "integrantes": [
+        {
+          "atleta_id": "43",
+          "nombre": "Odette Giuffrida",
+          "edad": 31,
+          "estilo": "-52kg"
+        },
+        {
+          "atleta_id": "44",
+          "nombre": "Alice Bellandi",
+          "edad": 27,
+          "estilo": "-78kg"
+        },
+        {
+          "atleta_id": "45",
+          "nombre": "Assunta Scutto",
+          "edad": 23,
+          "estilo": "-48kg"
+        }
+      ]
+    }
+  
+  
+]
+    
+   

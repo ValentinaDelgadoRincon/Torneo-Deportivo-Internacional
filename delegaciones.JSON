@@ -1,0 +1,231 @@
+[
+  {
+    "id": "01",
+    "pais": "España",
+    "continente": "Europa",
+    "equipos": [
+      {
+        "disciplina": "Natación",
+        "equipo_id": "101"
+      },
+      {
+        "disciplina": "Fútbol",
+        "equipo_id": "112"
+      }
+    ],
+    "medallas_totales": {
+      "oro": 3,
+      "plata": 2,
+      "bronce": 1
+    }
+  },
+  {
+    "id": "02",
+    "pais": "Francia",
+    "continente": "Europa",
+    "equipos": [
+      {
+        "disciplina": "Fútbol",
+        "equipo_id": "108"
+      }
+    ],
+    "medallas_totales": {
+      "oro": 1,
+      "plata": 0,
+      "bronce": 1
+    }
+  },
+  {
+    "id": "03",
+    "pais": "Colombia",
+    "continente": "América",
+    "equipos": [
+      {
+        "disciplina": "Ciclismo",
+        "equipo_id": "103"
+      }
+    ],
+    "medallas_totales": {
+      "oro": 1,
+      "plata": 0,
+      "bronce": 0
+    }
+  },
+  {
+    "id": "04",
+    "pais": "Argentina",
+    "continente": "América",
+    "equipos": [],
+    "medallas_totales": {
+      "oro": 0,
+      "plata": 1,
+      "bronce": 0
+    }
+  },
+  {
+    "id": "05",
+    "pais": "Estados Unidos",
+    "continente": "América",
+    "equipos": [
+      {
+        "disciplina": "Natación",
+        "equipo_id": "105"
+      }
+    ],
+    "medallas_totales": {
+      "oro": 1,
+      "plata": 0,
+      "bronce": 0
+    }
+  },
+  {
+    "id": "06",
+    "pais": "Hungría",
+    "continente": "Europa",
+    "equipos": [
+      {
+        "disciplina": "Esgrima",
+        "equipo_id": "106"
+      }
+    ],
+    "medallas_totales": {
+      "oro": 0,
+      "plata": 0,
+      "bronce": 0
+    }
+  },
+  {
+    "id": "07",
+    "pais": "Jamaica",
+    "continente": "América",
+    "equipos": [
+      {
+        "disciplina": "Atletismo",
+        "equipo_id": "107"
+      }
+    ],
+    "medallas_totales": {
+      "oro": 0,
+      "plata": 1,
+      "bronce": 0
+    }
+  },
+  {
+    "id": "08",
+    "pais": "Países Bajos",
+    "continente": "Europa",
+    "equipos": [
+      {
+        "disciplina": "Ciclismo",
+        "equipo_id": "109"
+      }
+    ],
+    "medallas_totales": {
+      "oro": 1,
+      "plata": 0,
+      "bronce": 0
+    }
+  },
+  {
+    "id": "09",
+    "pais": "Noruega",
+    "continente": "Europa",
+    "equipos": [
+      {
+        "disciplina": "Atletismo",
+        "equipo_id": "111"
+      }
+    ],
+    "medallas_totales": {
+      "oro": 1,
+      "plata": 0,
+      "bronce": 0
+    }
+  },
+  {
+    "id": "10",
+    "pais": "Eslovenia",
+    "continente": "Europa",
+    "equipos": [
+      {
+        "disciplina": "Ciclismo",
+        "equipo_id": "113"
+      }
+    ],
+    "medallas_totales": {
+      "oro": 0,
+      "plata": 0,
+      "bronce": 0
+    }
+  },
+  {
+    "id": "11",
+    "pais": "Venezuela",
+    "continente": "América",
+    "equipos": [
+      {
+        "disciplina": "Atletismo",
+        "equipo_id": "114"
+      }
+    ],
+    "medallas_totales": {
+      "oro": 1,
+      "plata": 0,
+      "bronce": 0
+    }
+  },
+  {
+    "id": "12",
+    "pais": "Italia",
+    "continente": "Europa",
+    "equipos": [
+      {
+        "disciplina": "Judo",
+        "equipo_id": "115"
+      }
+    ],
+    "medallas_totales": {
+      "oro": 0,
+      "plata": 0,
+      "bronce": 0
+    }
+  },
+  {
+    "id": "13",
+    "pais": "China",
+    "continente": "Asia",
+    "equipos": [
+      {
+        "disciplina": "Esgrima",
+        "equipo_id": "110"
+      }
+    ],
+    "medallas_totales": {
+      "oro": 0,
+      "plata": 0,
+      "bronce": 1
+    }
+  },
+  {
+    "id": "14",
+    "pais": "Alemania",
+    "continente": "Europa",
+    "equipos": [],
+    "medallas_totales": {
+      "oro": 0,
+      "plata": 0,
+      "bronce": 0
+    }
+  },
+  {
+    "id": "15",
+    "pais": "Brasil",
+    "continente": "América",
+    "equipos": [],
+    "medallas_totales": {
+      "oro": 0,
+      "plata": 0,
+      "bronce": 0
+    }
+  }
+]
