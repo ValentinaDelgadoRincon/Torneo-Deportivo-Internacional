@@ -1,5 +1,5 @@
 [{
-    "id": "101",
+    "id": 101,
     "nombre_equipo": "España Natación Masculino",
     "disciplina": "Natación",
     "delegacion_id": "01",
@@ -27,7 +27,7 @@
 
   
     {
-      "id": "102",
+      "id": 102,
       "nombre_equipo": "Argentina Fútbol Masculino",
       "disciplina": "Fútbol",
       "delegacion_id": "02",
@@ -36,24 +36,24 @@
           "atleta_id": "04",
           "nombre": "Lionel Messi",
           "edad": 38,
-          "estilo": "delantero"
+          "posicion": "delantero"
         },
         {
           "atleta_id": "05",
           "nombre": "Paulo Dybala",
           "edad": 31,
-          "estilo": "mediapunta"
+          "posicion": "mediapunta"
         },
         {
           "atleta_id": "06",
           "nombre": "Emiliano Martínez",
           "edad": 33,
-          "estilo": "portero"
+          "posicion": "portero"
         }
       ]
     },
     {
-      "id": "103",
+      "id": 103,
       "nombre_equipo": "Colombia BMX Femenino",
       "disciplina": "Ciclismo",
       "delegacion_id": "03",
@@ -79,7 +79,7 @@
       ]
     },
     {
-      "id": "104",
+      "id": 104,
       "nombre_equipo": "Francia Judo Masculino",
       "disciplina": "Judo",
       "delegacion_id": "04",
@@ -105,7 +105,7 @@
       ]
     },
     {
-      "id": "105",
+      "id": 105,
       "nombre_equipo": "USA Natación Femenino",
       "disciplina": "Natación",
       "delegacion_id": "05",
@@ -131,7 +131,7 @@
       ]
     },
     {
-      "id": "106",
+      "id": 106,
       "nombre_equipo": "Hungría Esgrima Masculino",
       "disciplina": "Esgrima",
       "delegacion_id": "06",
@@ -157,7 +157,7 @@
       ]
     },
     {
-      "id": "107",
+      "id": 107,
       "nombre_equipo": "Jamaica Atletismo Femenino",
       "disciplina": "Atletismo",
       "delegacion_id": "07",
@@ -183,7 +183,7 @@
       ]
     },
     {
-      "id": "108",
+      "id": 108,
       "nombre_equipo": "Francia Fútbol Masculino",
       "disciplina": "Fútbol",
       "delegacion_id": "02",
@@ -192,24 +192,24 @@
           "atleta_id": "22",
           "nombre": "Kylian Mbappé",
           "edad": 26,
-          "estilo": "delantero"
+          "posicion": "delantero"
         },
         {
           "atleta_id": "23",
           "nombre": "Eduardo Camavinga",
           "edad": 23,
-          "estilo": "mediocampista"
+          "posicion": "mediocampista"
         },
         {
           "atleta_id": "24",
           "nombre": "Mike Maignan",
           "edad": 30,
-          "estilo": "portero"
+          "posicion": "portero"
         }
       ]
     },
     {
-      "id": "109",
+      "id": 109,
       "nombre_equipo": "Países Bajos Ciclismo Ruta Femenino",
       "disciplina": "Ciclismo",
       "delegacion_id": "08",
@@ -235,7 +235,7 @@
       ]
     },
     {
-      "id": "110",
+      "id": 110,
       "nombre_equipo": "China Esgrima Femenino",
       "disciplina": "Esgrima",
       "delegacion_id": "06",
@@ -261,7 +261,7 @@
       ]
     },
     {
-      "id": "111",
+      "id": 111,
       "nombre_equipo": "Noruega Atletismo Masculino",
       "disciplina": "Atletismo",
       "delegacion_id": "09",
@@ -287,7 +287,7 @@
       ]
     },
     {
-      "id": "112",
+      "id": 112,
       "nombre_equipo": "España Fútbol Femenino",
       "disciplina": "Fútbol",
       "delegacion_id": "01",
@@ -296,24 +296,24 @@
           "atleta_id": "34",
           "nombre": "Alexia Putellas",
           "edad": 31,
-          "estilo": "mediocampista"
+          "posicion": "mediocampista"
         },
         {
           "atleta_id": "35",
           "nombre": "Jenni Hermoso",
           "edad": 35,
-          "estilo": "delantera"
+          "posicion": "delantera"
         },
         {
           "atleta_id": "36",
           "nombre": "Misa Rodríguez",
           "edad": 26,
-          "estilo": "portera"
+          "posicion": "portera"
         }
       ]
     },
     {
-      "id": "113",
+      "id": 113,
       "nombre_equipo": "Eslovenia Ciclismo Ruta Masculino",
       "disciplina": "Ciclismo",
       "delegacion_id": "10",
@@ -339,7 +339,7 @@
       ]
     },
     {
-      "id": "114",
+      "id": 114,
       "nombre_equipo": "Venezuela Atletismo Femenino",
       "disciplina": "Atletismo",
       "delegacion_id": "11",
@@ -365,7 +365,7 @@
       ]
     },
     {
-      "id": "115",
+      "id": 115,
       "nombre_equipo": "Italia Judo Femenino",
       "disciplina": "Judo",
       "delegacion_id": "12",
